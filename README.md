@@ -5,5 +5,3 @@
 
 
     sdfhsdghsdgh
-    24.11
-    
